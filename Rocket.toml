@@ -1,0 +1,2 @@
+[global]
+ROCKET_INFURA_MAINNET = "wss://mainnet.infura.io/ws/v3/c03d4301ed164a778faf942a5faa647f"
